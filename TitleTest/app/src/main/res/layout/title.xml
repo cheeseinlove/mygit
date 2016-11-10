@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/title_bg"
+    >
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="77dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dip"
+        android:background="@drawable/edit_bg"
+        android:text="Back" />
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Easynews"
+        android:textSize="24sp"/>
+
+    <Button
+        android:id="@+id/btn_edit"
+        android:layout_width="75dp"
+        android:layout_height="73dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dip"
+        android:background="@drawable/edit_bg"
+        android:text="Edit"
+        />
+
+</LinearLayout>
