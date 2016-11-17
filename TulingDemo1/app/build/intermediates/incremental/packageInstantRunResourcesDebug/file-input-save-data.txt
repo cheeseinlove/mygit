@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Nov 17 12:48:08 CST 2016
+2.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\visitor.jpg
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\robot.jpg
+4.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\leftitem.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+10.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\aio_friend_bg_nor_11.9.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\aio_user_bg_nor_11.9.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\rightitem.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

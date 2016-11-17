@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aio_friend_bg_nor_11.9.png",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\drawable-hdpi\\aio_friend_bg_nor_11.9.png"
+    },
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aio_user_bg_nor_11.9.png",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\drawable-hdpi\\aio_user_bg_nor_11.9.png"
+    },
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

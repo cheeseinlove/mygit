@@ -1,0 +1,7 @@
+#Thu Nov 17 12:48:29 CST 2016
+base.0=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5b4f7517aad2646d21238c77cf6348f23ad1df4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f0dddadaeef48ece1898395fb0b564baa11ce52\\classes.dex
+base.1=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f0dddadaeef48ece1898395fb0b564baa11ce52
+file.0=D\:\\Android\\TulingDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5b4f7517aad2646d21238c77cf6348f23ad1df4\\classes.dex

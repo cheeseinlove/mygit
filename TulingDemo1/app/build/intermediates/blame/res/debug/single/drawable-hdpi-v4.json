@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\robot.jpg",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\drawable-hdpi\\robot.jpg"
+    },
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\visitor.jpg",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\drawable-hdpi\\visitor.jpg"
+    }
+]

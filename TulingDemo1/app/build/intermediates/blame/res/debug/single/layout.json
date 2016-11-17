@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leftitem.xml",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\layout\\leftitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rightitem.xml",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\layout\\rightitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\TulingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\TulingDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
